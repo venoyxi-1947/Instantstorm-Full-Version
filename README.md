@@ -237,3 +237,6 @@ This repository serves as the official landing page for InstantStorm. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of InstantStorm today!**
+
+---
+**Last updated:** 2026-09-11 20:27:38 UTC
